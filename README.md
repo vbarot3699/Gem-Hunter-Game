@@ -1,5 +1,6 @@
 Zoom Video Link: https://conestogac.zoom.us/rec/share/VsfTbLrQG0YY1VZuYiAj9vvktZuYcfhI8YlmAUfxGlnjbB5RNFttITvwo6Lp0hDa.cdovW8JxwuzC8K1W 
 
+YouTube Video Link: https://youtu.be/P3gojynYdww 
 
 # Gem-Hunter-Game
 
