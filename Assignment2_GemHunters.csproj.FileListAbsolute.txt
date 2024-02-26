@@ -1,0 +1,7 @@
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\bin\Debug\Assignment2_GemHunters.exe.config
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\bin\Debug\Assignment2_GemHunters.exe
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\bin\Debug\Assignment2_GemHunters.pdb
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\obj\Debug\Assignment2_GemHunters.csproj.AssemblyReference.cache
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\obj\Debug\Assignment2_GemHunters.csproj.CoreCompileInputs.cache
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\obj\Debug\Assignment2_GemHunters.exe
+C:\Users\Rutvi\Vaishnavi Sem-1\Software Testing Methodologies\C#\Assignment2_GemHunters\Assignment2_GemHunters\obj\Debug\Assignment2_GemHunters.pdb
