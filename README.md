@@ -1,11 +1,10 @@
 # Gem-Hunter-Game
-# Gem Collector Game
 
-Gem Collector Game is a simple console-based game where two players compete to collect gems on a game board while avoiding obstacles.
+Gem Hunter Game is a simple console-based game where two players compete to collect gems on a game board while avoiding obstacles.
 
 ## Introduction
 
-Gem Collector Game is a classic two-player game where the objective is to collect as many gems as possible within a limited number of turns. Players must navigate through a grid-based game board, avoiding obstacles and strategically collecting gems to outscore their opponent.
+Gem Hunter Game is a classic two-player game where the objective is to collect as many gems as possible within a limited number of turns. Players must navigate through a grid-based game board, avoiding obstacles and strategically collecting gems to outscore their opponent.
 
 ## How to Play
 
@@ -17,7 +16,7 @@ Gem Collector Game is a classic two-player game where the objective is to collec
 
 ## Installation
 
-To run the Gem Collector Game:
+To run the Gem Hunter Game:
 
 1. Clone the repository to your local machine.
 2. Open the solution in your preferred C# IDE (e.g., Visual Studio).
@@ -39,4 +38,4 @@ Enter 'L' to move left.
 Enter 'R' to move right.
 
 Contributing
-Contributions to the Gem Collector Game are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
+Contributions to the Gem Hunter Game are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
