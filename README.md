@@ -1,3 +1,6 @@
+Zoom Video Link: https://conestogac.zoom.us/rec/share/VsfTbLrQG0YY1VZuYiAj9vvktZuYcfhI8YlmAUfxGlnjbB5RNFttITvwo6Lp0hDa.cdovW8JxwuzC8K1W 
+
+
 # Gem-Hunter-Game
 
 Gem Hunter Game is a simple console-based game where two players compete to collect gems on a game board while avoiding obstacles.
